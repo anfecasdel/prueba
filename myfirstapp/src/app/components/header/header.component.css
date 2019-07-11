@@ -1,0 +1,29 @@
+.fondo{
+    background-image: url(../../images/casa.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 70px;
+  }
+
+  .navbar-logo img{
+    display: block;
+    width: 100%;
+  }
+
+  .navbar{
+    background-color: transparent !important;
+  }
+
+  .busqueda{
+      padding-top: 10%;
+      padding-bottom: 15%;
+  }
+
+  .navbar-form{
+      padding-left: 15%;
+  }

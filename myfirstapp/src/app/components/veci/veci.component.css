@@ -1,0 +1,16 @@
+.veci{
+    background-color: lightgray;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    color: aliceblue;
+}
+
+hr{
+    height: 3px;
+    width: 80%;
+    background-color: black;
+}

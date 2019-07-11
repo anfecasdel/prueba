@@ -1,0 +1,19 @@
+hr{
+  height: 3px;
+  width: 80%;
+  background-color: black;
+}
+
+.hrprevous {
+    height: 3px;
+    width: 10%;
+    background-color: black;
+    margin-left: 0%;
+  }
+
+.hrnext {
+    height: 3px;
+    width: 10%;
+    background-color: black;
+    margin-right: 0%;
+  }
